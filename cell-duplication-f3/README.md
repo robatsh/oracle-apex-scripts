@@ -39,5 +39,5 @@ This script is provided as-is under the MIT License. Feel free to adapt and exte
 
 ## Author
 
-Robert Markner
+LWL3BN
 https://github.com/robatsh 
