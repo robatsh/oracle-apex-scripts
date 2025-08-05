@@ -1,17 +1,20 @@
 # Oracle APEX Scripts
 
-A curated collection of useful JavaScript snippets and tools to enhance Oracle APEX applications.
+A collection of JavaScript snippets and tools to enhance Oracle APEX applications.
 
-## Included Scripts
+## Scripts included
 
-### [Cell Duplication with F3](./cell-duplication-f3)
-Simulates the Oracle Forms cell duplication function in Oracle APEX Interactive Grid.
-Press **F3** (without modifiers) to copy the value from the cell above into the currently active cell.
+- [Cell Duplication with F3](./cell-duplication-f3) — Copies the value from the cell above in Interactive Grid by pressing F3.
+- [Apex Cell Copy to Clipboard](./apex-cell-copy-to-clipboard) — Allows copying form field or text content with Ctrl+Click.
 
-## How to Use
+## Usage
 
-Each script folder contains its own README with detailed instructions on usage and setup.
+Each script is self-contained in its folder with detailed instructions in its README.
 
 ## Contributing
 
-Feel free to contribute your own Oracle APEX scripts by creating a pull request.
+Contributions and new scripts are welcome! Please open a pull request.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file.
