@@ -15,10 +15,3 @@ Each script folder contains its own README with detailed instructions on usage a
 ## Contributing
 
 Feel free to contribute your own Oracle APEX scripts by creating a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
